@@ -1,1 +1,2 @@
 This file contains instructions.
+Step 1 - Connect to the https:// site
